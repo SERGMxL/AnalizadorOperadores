@@ -1,0 +1,14 @@
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\bin\Debug\net8.0\TokenOperador.exe
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\bin\Debug\net8.0\TokenOperador.deps.json
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\bin\Debug\net8.0\TokenOperador.runtimeconfig.json
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\bin\Debug\net8.0\TokenOperador.dll
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\bin\Debug\net8.0\TokenOperador.pdb
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\TokenOperador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\TokenOperador.AssemblyInfoInputs.cache
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\TokenOperador.AssemblyInfo.cs
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\TokenOperador.csproj.CoreCompileInputs.cache
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\TokenOperador.dll
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\refint\TokenOperador.dll
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\TokenOperador.pdb
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\TokenOperador.genruntimeconfig.cache
+C:\Users\elosw\source\repos\TokenOperador\TokenOperador\obj\Debug\net8.0\ref\TokenOperador.dll
